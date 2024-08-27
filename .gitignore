@@ -6,7 +6,7 @@ __pycache__/
 .todo
 *.log
 *.backup
-tf_env/
+
 *.png
 *.mp4
 *.mkv
@@ -22,3 +22,8 @@ models/inswapper_128.onnx
 models/GFPGANv1.4.pth
 *.onnx
 models/DMDNet.pth
+.venv/
+tf_env/
+.tf_env/
+.deepcamlive/
+deep-live-cam/
